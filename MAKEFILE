@@ -1,0 +1,2 @@
+pmpal.exe : pmpal.c
+  bcc pmpal.c
